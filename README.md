@@ -1,3 +1,6 @@
+![ETL Pipeline](https://github.com/akshar99/ETL-Pipeline-AWS-Glue---PySpark/assets/42032147/08456e51-0f30-4667-bfdb-d77078c50daf)
+
+
 **ETL Project: Creating a Data Pipeline with AWS Glue and PySpark**
 
 This project focuses on building an Extract, Transform, Load (ETL) pipeline using AWS Glue and PySpark for data transformation. The process involves several key steps:
